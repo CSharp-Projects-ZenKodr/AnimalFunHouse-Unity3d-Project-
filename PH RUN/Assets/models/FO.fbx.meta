@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: eb2a62542060a6840ba0b395553f30a1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: boundary a
+    100002: boundary a.001
+    100004: boundary a.002
+    100006: boundary a.003
+    100008: boundary a.004
+    100010: boundary a.007
+    100012: boundary a.008
+    100014: boundary a.009
+    100016: boundary a.010
+    100018: boundary a.011
+    100020: boundary a.012
+    100022: boundary b
+    100024: boundary b.001
+    100026: boundary b.002
+    100028: boundary b.003
+    100030: boundary b.004
+    100032: boundary b.007
+    100034: boundary b.008
+    100036: boundary b.009
+    100038: boundary b.010
+    100040: boundary b.011
+    100042: boundary b.012
+    100044: Cylinder.005
+    100046: Cylinder.006
+    100048: //RootNode
+    100050: Pillar
+    100052: Pillar.001
+    100054: Pillar.002
+    100056: Pillar.003
+    100058: Pillar.004
+    100060: Pillar.005
+    100062: Pillar.007
+    100064: Pillar.008
+    100066: Pillar.009
+    100068: Pillar.010
+    100070: Pillar.011
+    100072: road
+    100074: road.001
+    100076: road.002
+    100078: road.003
+    100080: road.004
+    100082: road.007
+    100084: road.008
+    100086: road.009
+    100088: road.010
+    100090: road.011
+    100092: road.012
+    100094: Support
+    100096: Support.001
+    100098: Support.002
+    100100: Support.003
+    100102: Support.004
+    100104: Support.007
+    100106: Support.008
+    100108: Support.009
+    100110: Support.010
+    100112: Support.011
+    100114: Support.012
+    400000: boundary a
+    400002: boundary a.001
+    400004: boundary a.002
+    400006: boundary a.003
+    400008: boundary a.004
+    400010: boundary a.007
+    400012: boundary a.008
+    400014: boundary a.009
+    400016: boundary a.010
+    400018: boundary a.011
+    400020: boundary a.012
+    400022: boundary b
+    400024: boundary b.001
+    400026: boundary b.002
+    400028: boundary b.003
+    400030: boundary b.004
+    400032: boundary b.007
+    400034: boundary b.008
+    400036: boundary b.009
+    400038: boundary b.010
+    400040: boundary b.011
+    400042: boundary b.012
+    400044: Cylinder.005
+    400046: Cylinder.006
+    400048: //RootNode
+    400050: Pillar
+    400052: Pillar.001
+    400054: Pillar.002
+    400056: Pillar.003
+    400058: Pillar.004
+    400060: Pillar.005
+    400062: Pillar.007
+    400064: Pillar.008
+    400066: Pillar.009
+    400068: Pillar.010
+    400070: Pillar.011
+    400072: road
+    400074: road.001
+    400076: road.002
+    400078: road.003
+    400080: road.004
+    400082: road.007
+    400084: road.008
+    400086: road.009
+    400088: road.010
+    400090: road.011
+    400092: road.012
+    400094: Support
+    400096: Support.001
+    400098: Support.002
+    400100: Support.003
+    400102: Support.004
+    400104: Support.007
+    400106: Support.008
+    400108: Support.009
+    400110: Support.010
+    400112: Support.011
+    400114: Support.012
+    2100000: wall texture
+    2100002: Black paint
+    2100004: Road Texture
+    2100006: white paint
+    2100008: metal light
+    2300000: boundary a
+    2300002: boundary a.001
+    2300004: boundary a.002
+    2300006: boundary a.003
+    2300008: boundary a.004
+    2300010: boundary a.007
+    2300012: boundary a.008
+    2300014: boundary a.009
+    2300016: boundary a.010
+    2300018: boundary a.011
+    2300020: boundary a.012
+    2300022: boundary b
+    2300024: boundary b.001
+    2300026: boundary b.002
+    2300028: boundary b.003
+    2300030: boundary b.004
+    2300032: boundary b.007
+    2300034: boundary b.008
+    2300036: boundary b.009
+    2300038: boundary b.010
+    2300040: boundary b.011
+    2300042: boundary b.012
+    2300044: Cylinder.005
+    2300046: Cylinder.006
+    2300048: Pillar
+    2300050: Pillar.001
+    2300052: Pillar.002
+    2300054: Pillar.003
+    2300056: Pillar.004
+    2300058: Pillar.005
+    2300060: Pillar.007
+    2300062: Pillar.008
+    2300064: Pillar.009
+    2300066: Pillar.010
+    2300068: Pillar.011
+    2300070: road
+    2300072: road.001
+    2300074: road.002
+    2300076: road.003
+    2300078: road.004
+    2300080: road.007
+    2300082: road.008
+    2300084: road.009
+    2300086: road.010
+    2300088: road.011
+    2300090: road.012
+    2300092: Support
+    2300094: Support.001
+    2300096: Support.002
+    2300098: Support.003
+    2300100: Support.004
+    2300102: Support.007
+    2300104: Support.008
+    2300106: Support.009
+    2300108: Support.010
+    2300110: Support.011
+    2300112: Support.012
+    3300000: boundary a
+    3300002: boundary a.001
+    3300004: boundary a.002
+    3300006: boundary a.003
+    3300008: boundary a.004
+    3300010: boundary a.007
+    3300012: boundary a.008
+    3300014: boundary a.009
+    3300016: boundary a.010
+    3300018: boundary a.011
+    3300020: boundary a.012
+    3300022: boundary b
+    3300024: boundary b.001
+    3300026: boundary b.002
+    3300028: boundary b.003
+    3300030: boundary b.004
+    3300032: boundary b.007
+    3300034: boundary b.008
+    3300036: boundary b.009
+    3300038: boundary b.010
+    3300040: boundary b.011
+    3300042: boundary b.012
+    3300044: Cylinder.005
+    3300046: Cylinder.006
+    3300048: Pillar
+    3300050: Pillar.001
+    3300052: Pillar.002
+    3300054: Pillar.003
+    3300056: Pillar.004
+    3300058: Pillar.005
+    3300060: Pillar.007
+    3300062: Pillar.008
+    3300064: Pillar.009
+    3300066: Pillar.010
+    3300068: Pillar.011
+    3300070: road
+    3300072: road.001
+    3300074: road.002
+    3300076: road.003
+    3300078: road.004
+    3300080: road.007
+    3300082: road.008
+    3300084: road.009
+    3300086: road.010
+    3300088: road.011
+    3300090: road.012
+    3300092: Support
+    3300094: Support.001
+    3300096: Support.002
+    3300098: Support.003
+    3300100: Support.004
+    3300102: Support.007
+    3300104: Support.008
+    3300106: Support.009
+    3300108: Support.010
+    3300110: Support.011
+    3300112: Support.012
+    4300000: Pillar
+    4300002: boundary a
+    4300004: Support
+    4300006: road
+    4300008: boundary b
+    4300010: Pillar.001
+    4300012: boundary a.001
+    4300014: Support.001
+    4300016: road.001
+    4300018: boundary b.001
+    4300020: Pillar.002
+    4300022: boundary a.002
+    4300024: Support.002
+    4300026: road.002
+    4300028: boundary b.002
+    4300030: Pillar.003
+    4300032: boundary a.003
+    4300034: Support.003
+    4300036: road.003
+    4300038: boundary b.003
+    4300040: Pillar.008
+    4300042: boundary a.008
+    4300044: Support.008
+    4300046: road.008
+    4300048: boundary b.008
+    4300050: Pillar.009
+    4300052: boundary a.009
+    4300054: Support.009
+    4300056: road.009
+    4300058: boundary b.009
+    4300060: Pillar.010
+    4300062: boundary a.010
+    4300064: Support.010
+    4300066: road.010
+    4300068: boundary b.010
+    4300070: Pillar.004
+    4300072: boundary a.004
+    4300074: Support.004
+    4300076: road.004
+    4300078: boundary b.004
+    4300080: Pillar.007
+    4300082: boundary a.007
+    4300084: Support.007
+    4300086: road.007
+    4300088: boundary b.007
+    4300090: Pillar.011
+    4300092: boundary a.011
+    4300094: Support.011
+    4300096: road.011
+    4300098: boundary b.011
+    4300100: boundary a.012
+    4300102: Support.012
+    4300104: road.012
+    4300106: boundary b.012
+    4300108: Pillar.005
+    4300110: Cylinder.005
+    4300112: Cylinder.006
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
